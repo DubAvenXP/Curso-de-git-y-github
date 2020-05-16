@@ -3,6 +3,7 @@ body{
     font-size: large;
     font-weight: bolder;
     color: red;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header .menu{
