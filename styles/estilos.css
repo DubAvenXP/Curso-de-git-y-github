@@ -4,3 +4,11 @@ body{
     font-weight: bolder;
     color: red;
 }
+
+header .menu{
+    margin: 0 auto;
+    width: 400px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: beige;
+}
