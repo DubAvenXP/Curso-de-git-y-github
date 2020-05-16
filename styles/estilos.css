@@ -12,3 +12,12 @@ header .menu{
     border-radius: 10px;
     background-color: beige;
 }
+
+.titulo-maestro{
+    color: blue;
+    background-color: pink;
+}
+
+.titulo-maestro h1{
+    margin-top: 0;
+}
