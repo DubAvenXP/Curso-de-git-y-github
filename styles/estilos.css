@@ -18,10 +18,22 @@ header .menu{
 .titulo-maestro{
     color: blue;
     background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .titulo-maestro h1{
-    margin-top: 0;
+    margin: 0;
+}
+
+.titulo-maestro .image-container{
+    height: 100%;
+    width: 35px;
+    margin: 0;
+}
+
+.titulo-maestro .image-container img{
+    width: 100%;
 }
 
 
