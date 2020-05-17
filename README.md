@@ -9,6 +9,7 @@ En este momento estoy llevando el curso de git y github en platzi
 - Este es el readme mejorado
 - Estoy probando git stash
 - Tambien estoy probando git cherry-pick
+- Ejemplos en windows, linux y MAC
 
 ## Este es un h2 porque puedo y porque quiero!!! XD
 
