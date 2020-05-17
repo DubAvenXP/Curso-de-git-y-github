@@ -6,6 +6,9 @@ En este momento estoy llevando el curso de git y github en platzi
 - Opcion 1
 - Opcion 2
 - Opcion 3
+- Este es el readme mejorado
+- Estoy probando git stash
+- Tambien estoy probando git cherry-pick
 
 ## Este es un h2 porque puedo y porque quiero!!! XD
 
