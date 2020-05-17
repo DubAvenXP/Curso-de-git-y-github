@@ -11,4 +11,4 @@ En este momento estoy llevando el curso de git y github en platzi
 
 1. 13 RAZONES PORQUE 
 
-[Buscame en YouTube](http://youtube.com "Youtube")
+[Buscame este proyecto en]https://dubavenxp.github.io/curso-git-y-github/blogpost.html "Github Pages")
